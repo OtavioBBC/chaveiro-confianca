@@ -1,0 +1,32 @@
+
+Barra de navegação X - 
+
+Home X - Logo, Título, Subtítulo, Botão. Foto à direita. [DESIGN FORTE]
+Conteúdo [Para quem minha consultoria é] X -  [NEUTRO]
+Como funciona X- 1. Cliente apresenta a dificuldade. 2. Consultor auxilia com os problemas. 3. Fechar a consultoria, assinar o contrato. 
+		4. Ofereço documento de treino e dieta em PDF. 5. Disponibilidade 24h para auxiliar e tirar dúvidas. 6 Acompanhamento presencial 1x/mês. [NEUTRO]
+CTA X -  [CORTE]
+Quem somos X -  [FORTE]
+Diferenciais X -  [NEUTRO/CARDS]
+Serviços X - [NEUTRO/CARDS]
+CTA - X [CORTE]
+FAQ - X [NEUTRO]
+
+✓ - Feito
+X - Não feito
+
+#AE8241 0%, #F2CF8D 100%);
+
+#F2F2F2 - #EAEAEA - 247
+
+
+Landing section
+Piano lessons section with CTA
+About/history
+Our unique approach
+Opportunities (info cards)
+Quote section (like the one at the bottom of the current site but better)
+Meet our team
+Gallery
+Reviews
+Footer
